@@ -65,6 +65,7 @@ text
 * └──  <a href="https://github.com/nitishkumar8383000-lab/starbucks-beverage-analysis-powerbi/commit/7f26fb3470f319de563b55835079029a30627737">starbucks-beverages.csv</a>
 ## Dashboard
 <img width="1920" height="1020" alt="Screenshot 2026-08-16 110320" src="https://github.com/user-attachments/assets/772b70f4-2e35-4c30-a307-54f953378aec" />
+
 ## 🚀 How to Use
 
 1. Download or clone this repository.
