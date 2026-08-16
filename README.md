@@ -58,9 +58,8 @@ The dashboard makes it easy to identify differences between beverage categories 
 
 text
 * starbucks-beverage-analysis-powerbi/
-* │
 * ├── <a href="https://github.com/nitishkumar8383000-lab/starbucks-beverage-analysis-powerbi/commit/79ebc140ee8c895c84f977cccbbfd9790d1e5be9"> README.md
-* ├── dashboard-preview.png <img width="1920" height="1020" alt="Screenshot 2026-08-16 110320" src="https://github.com/user-attachments/assets/773af341-2c43-401e-ab39-21b90eaed1ee" />
+* ├── <a href="https://github.com/nitishkumar8383000-lab/starbucks-beverage-analysis-powerbi/commit/0cc1c24fae5fd4bfe527b004df9cdda4fb76b72a"> dashboard-preview.png 
 
 * └── data
     * └──  <a href="https://github.com/nitishkumar8383000-lab/starbucks-beverage-analysis-powerbi/commit/7f26fb3470f319de563b55835079029a30627737">starbucks-beverages.csv</a>
