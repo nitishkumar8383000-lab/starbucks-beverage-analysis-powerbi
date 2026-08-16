@@ -61,9 +61,10 @@ text
 * │
 * ├── README.md
 * ├── Starbucks-Analysis.pbix
-* ├── dashboard-preview.png
+* ├── dashboard-preview.png <img width="1920" height="1020" alt="Screenshot 2026-08-16 110320" src="https://github.com/user-attachments/assets/773af341-2c43-401e-ab39-21b90eaed1ee" />
+
 * └── data/
-    *└──  <a href="https://github.com/nitishkumar8383000-lab/starbucks-beverage-analysis-powerbi/commit/7f26fb3470f319de563b55835079029a30627737">starbucks-beverages.csv</a>
+    * └──  <a href="https://github.com/nitishkumar8383000-lab/starbucks-beverage-analysis-powerbi/commit/7f26fb3470f319de563b55835079029a30627737">starbucks-beverages.csv</a>
 
 
 ## 🚀 How to Use
