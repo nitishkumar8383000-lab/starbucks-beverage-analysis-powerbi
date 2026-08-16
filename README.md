@@ -68,7 +68,7 @@ text
 ## 🚀 How to Use
 
 1. Download or clone this repository.
-2. Open Starbucks-Analysis.pbix in Microsoft Power BI Desktop.
+2. Open <a href="https://github.com/nitishkumar8383000-lab/starbucks-beverage-analysis-powerbi/commit/7f26fb3470f319de563b55835079029a30627737">starbucks-beverages.csv</a> in Microsoft Power BI Desktop.
 3. Refresh the dataset if required.
 4. Use the available filters and visuals to explore the dashboard.
 
